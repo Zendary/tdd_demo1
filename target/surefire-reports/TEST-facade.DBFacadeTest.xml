@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="facade.DBFacadeTest" time="0.784" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="facade.DBFacadeTest" time="0.652" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="18"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="DK"/>
     <property name="sun.boot.library.path" value="C:\Users\silve\.jdks\openjdk-18.0.1.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\silve\AppData\Local\Temp\surefire15742329613074629246\surefirebooter18407841234180391024.jar C:\Users\silve\AppData\Local\Temp\surefire15742329613074629246 2023-02-01T15-21-45_896-jvmRun1 surefire1527234141071816567tmp surefire_04106111052178091441tmp"/>
+    <property name="sun.java.command" value="C:\Users\silve\AppData\Local\Temp\surefire18271491565520985950\surefirebooter602041488114644307.jar C:\Users\silve\AppData\Local\Temp\surefire18271491565520985950 2023-02-01T15-33-17_333-jvmRun1 surefire12100301460523396658tmp surefire_05507568590275305717tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\silve\OneDrive\Dokumenter\tdd_demo1\target\test-classes;C:\Users\silve\OneDrive\Dokumenter\tdd_demo1\target\classes;C:\Users\silve\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.2\junit-jupiter-5.9.2.jar;C:\Users\silve\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\silve\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\silve\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\silve\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\silve\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.2\junit-jupiter-params-5.9.2.jar;C:\Users\silve\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.2\junit-jupiter-engine-5.9.2.jar;C:\Users\silve\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;C:\Users\silve\.m2\repository\mysql\mysql-connector-java\8.0.26\mysql-connector-java-8.0.26.jar;C:\Users\silve\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\silve\AppData\Local\Temp\surefire15742329613074629246\surefirebooter18407841234180391024.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\silve\AppData\Local\Temp\surefire18271491565520985950\surefirebooter602041488114644307.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="18.0.1.1+2-6"/>
@@ -57,5 +57,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="62.0"/>
   </properties>
-  <testcase name="test" classname="facade.DBFacadeTest" time="0.783"/>
+  <testcase name="test" classname="facade.DBFacadeTest" time="0.651"/>
 </testsuite>
