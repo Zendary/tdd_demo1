@@ -34,6 +34,7 @@
         </dependency>
     </dependencies>
 
+
     <properties>
         <remote.server>http://http://167.99.245.162:8081/manager/</remote.server>
         <maven.compiler.source>18</maven.compiler.source>
